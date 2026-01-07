@@ -1,4 +1,4 @@
-# Kelp turnover dataset
+# Kelp biomass turnover dataset
 This global dataset compiles *in situ* measurements of biomass turnover for kelps (Laminariales and other brown seaweeds referred to as kelps). `Turnover.csv` contains all data and `References.pdf` gives a full bibliography of the cited studies. The data are structured into these variables:
 
 - `Reference` Citation
